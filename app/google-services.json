@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071608545756",
+    "project_id": "isszi-schedule",
+    "storage_bucket": "isszi-schedule.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071608545756:android:2db816802f6bfe71864f19",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMmFsBWFQ8B_6W1vZGIoUBEocQdTO-_K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
